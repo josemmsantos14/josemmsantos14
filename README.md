@@ -53,8 +53,8 @@
 
 ### Contacts
 <div id="contacts">
-<a class="linkedin" href="https://www.linkedin.com/in/josemmsantos/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30"/></a>
-<a class="gmail" href="mailto: josemmsantos14@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30"/></a>
+<a class="linkedin" href="https://www.linkedin.com/in/josemmsantos/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="36" height="36" title="Contact me! 👨‍💼" /></a>
+<a class="gmail" href="mailto: josemmsantos14@gmail.com"><img src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/192px.svg" width="36" height="36" title="Contact me! 📧" /></a>
 </div>
 
 
