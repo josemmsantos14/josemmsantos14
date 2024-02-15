@@ -12,9 +12,10 @@
 <div id="stats">
   <img src="https://media0.giphy.com/media/3SL41WtN5l9DNdPJGs/200w.webp?cid=ecf05e47htiurbs8gqf32potjyt4uxu9bnghvp66xmtbep6l&ep=v1_gifs_related&rid=200w.webp&ct=ts" width="100"/> 
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josemmsantos14&theme=holi-theme&border_radius=5)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=josemmsantos14&show_icons=true&theme=holi&border_radius=5)](https://git.io/streak-stats)
-
+-->
 </div>
 <br>
 
