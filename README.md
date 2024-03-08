@@ -2,14 +2,12 @@
 ### Hey there! 👋 How's your day going? <img src="https://media3.giphy.com/media/HrRvnN7NuJy4InG4MV/giphy.webp?cid=ecf05e47xcdpd5632h4hmb1fbk5jgd5rrna97750gqlhrkd0&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="25">
 
 <hr>
-
+<!--
 🧑‍💻 I'm José, a technology enthusiast passionate about software development. My goal is to create innovative solutions and to be in a constant learning mode.
-
 💻 In my repository, you'll find projects that reflect my learning journey and experimentation. I'm always seeking to enhance my skills and contribute to the developer community.
-
-🌱 Currently, I'm sharpening my skills in Web Development, so feel free to check out my projects and follow along with my learning journey. <!-- Let's build something amazing together! -->
-
-📫 Feel free to reach out. <!-- for discussions, collaborations, or just to exchange ideas about technology. -->
+🌱 Currently, I'm sharpening my skills in Web Development, so feel free to check out my projects and follow along with my learning journey.
+📫 Feel free to reach out.
+-->
 
 <img src="https://media0.giphy.com/media/3SL41WtN5l9DNdPJGs/200w.webp?cid=ecf05e47htiurbs8gqf32potjyt4uxu9bnghvp66xmtbep6l&ep=v1_gifs_related&rid=200w.webp&ct=ts" width="100"/> 
 
